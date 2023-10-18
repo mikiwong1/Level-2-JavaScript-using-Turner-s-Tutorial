@@ -1,3 +1,4 @@
+//Miki Wong Period: 9-10 EVEN
 function initialize(){
             visitsOut = document.getElementById("visits");
 
